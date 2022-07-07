@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kavindu Sayuranga</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Kavindu+Sayuranga;Software+Engineer+and+Web+Developer">
+</p>
 <h3 align="center">Student at IJSE, Sri Lanka🌟.</h3>
 
 
