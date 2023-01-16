@@ -49,9 +49,12 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />  </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
       src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"
-      alt="html5" width="40" height="40" /> 
-    
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      alt="html5" width="40" height="40" /></a> 
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img
+      src="https://nuxtjs.org/design-kit/colored-white-text.svg"
+      alt="nuxt" width="40" height="40" /> </a>  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img
+      src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.e0b2bd6155fa0bed8e24ff6b28f4a911.svg"
+      alt="nuxt" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
      </a> <a href="https://www.photoshop.com/en" target="_blank"
